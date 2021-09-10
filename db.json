@@ -1,0 +1,39 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "marca": "Fender",
+      "modelo": "Telecaster"
+    },
+    {
+      "marca": "Fender",
+      "modelo": "Stratocaster",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "marca": "Gibson",
+      "modelo": "Les Paul"
+    },
+    {
+      "id": 4,
+      "marca": "Ibanez",
+      "modelo": "RG"
+    },
+    {
+      "chat": true,
+      "username": "admin",
+      "id": 5
+    },
+    {
+      "marca": "Cort",
+      "modelo": "Kx Custom",
+      "id": 6
+    },
+    {
+      "marca": "Tagimaaaaaa",
+      "modelo": "Telecaster-MMM",
+      "id": 7
+    }
+  ]
+}
